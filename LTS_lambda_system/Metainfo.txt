@@ -1,0 +1,17 @@
+﻿
+Name of Quantlet: LTS_lambda_system
+
+Published in: LASSO_Time_Space
+
+Description: 'Compares the in-sample RMSE with the penalty level selected equation by equation or jointly over equations in a regression system.'
+
+Keywords : 
+- simulation
+- lasso shrinkage
+- L1-norm penalty
+- regression
+- error
+
+Author:          Chen Huang
+
+Submitted:        Tuesday, June 19 2018 by Chen Huang

@@ -1,0 +1,17 @@
+﻿
+Name of Quantlet: LTS_inference
+
+Published in: LASSO_Time_Space
+
+Description: 'Compares the average rejection rate of the null hypotheses for the individual and simultaneous inference (confidence intervals constructed by asymptotics or bootstrap).'
+
+Keywords : 
+- simulation
+- lasso shrinkage
+- bootstrap
+- regression
+- hypothesis-testing
+
+Author:          Chen Huang
+
+Submitted:        Tuesday, June 19 2018 by Chen Huang
